@@ -1,3 +1,13 @@
+# MICA Capstone Project
+
+This was a labour of love. An analysis of spatial equity among the cycling community in NYC's 5 boroughs (Queens, Brooklyn, Manhattan, Bronx and Staten Island). 
+
+This project was delivered as part of completion of the MPS Data Visualization and Analytics at the **Maryland Institute College of the Arts** beter known as MICA. 
+
+Although I've met the requirements for completion (The project received a grade A) I am continuing to work on this project. The intended next steps is a public visual installation. 
+
+## The Technical Stuff
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
